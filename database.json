@@ -3,15 +3,22 @@
     "https://github.com/shstueber/helloWorld_shstueber.git": [
       "https://github.com/shstueber/helloWorld_shstueber.git",
       "1706621407376"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git": [
+      "BancroftKineticSystemsClass/KineticSystems2024Group07",
+      "1706623299700"
     ]
   },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 32.0,
+    "fontsize": 32,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
