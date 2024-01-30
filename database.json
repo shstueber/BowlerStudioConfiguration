@@ -13,7 +13,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git:Nametag.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git",
+      "Nametag.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
