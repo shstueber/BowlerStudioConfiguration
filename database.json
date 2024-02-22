@@ -37,6 +37,10 @@
     "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git:SimpleRobotCad.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git",
+      "SimpleRobotCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
