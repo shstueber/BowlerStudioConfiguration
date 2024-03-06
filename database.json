@@ -26,6 +26,10 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git",
       "SimpleRobot.xml"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git:SimpleRobotKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git",
+      "SimpleRobotKinematics.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git",
       "Nametag.groovy"
@@ -37,6 +41,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git:SimpleRobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git",
       "SimpleRobotCad.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group07.git",
+      "TestKinematics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
